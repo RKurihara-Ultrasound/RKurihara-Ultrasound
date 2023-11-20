@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RKurihara-Ultrasound
+- 👋 Hi, I’m Ryosuke Kurihara @RKurihara-Ultrasound belonging to Tokyo University of Science
 - 👀 I’m interested in ultrasonic measurements on solid state physics
 - 🌱 I’m currently learning Julia language for theoretical calculations and the remote control of instruments using VISA 
   
